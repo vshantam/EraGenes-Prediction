@@ -7,4 +7,9 @@ This project is basically about <b>Extracting</b> the basic key features from Hu
     
       1.python3
       2.Linux based Platform (works on windows too).
+      3.Requires high level of computational processor.
+      4.must have updated gnu-g++ compiler.
+      5.Cmake (latest version)
+      
+# Requirements
  
