@@ -11,5 +11,13 @@ This project is basically about <b>Extracting</b> the basic key features from Hu
       4.must have updated gnu-g++ compiler.
       5.Cmake (latest version)
       
-# Requirements
+# Requirements 
+
+      1.scikit-learn
+      2.dlib
+      3.matplotlib
+      4.opencv(cv2)
+      5.keras
+      6.math
+      
  
