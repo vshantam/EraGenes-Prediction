@@ -20,4 +20,14 @@ This project is basically about <b>Extracting</b> the basic key features from Hu
       5.keras
       6.math
       
- 
+# How to install Dependencies
+## Method 1
+use of pip command
+
+    1.pip install package_name --upgrade
+    
+## Method 2
+use the below command
+
+    pip install -r spec.txt
+The above command will install all the required dependencies using spec.txt file.
