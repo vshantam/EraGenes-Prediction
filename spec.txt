@@ -1,0 +1,8 @@
+cv2 >= 3.0
+keras >= 1.0
+numpy >=0.0
+pandas >= 0.0
+matplotlib >= 0.0
+pickle >= 0.0
+urllib >=0.0
+dlib >= 0.0
