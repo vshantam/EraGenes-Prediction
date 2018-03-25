@@ -130,13 +130,13 @@ Here are the lis of classifier used in the project :
     # used in main.py file
     4.shape_predictor_68_face_landmarks.dat used in main and demo.py file
     5 pretrained model file used in demo.py file.\
-<b> Note do not need to change the path of file except the demo.py file if you want to use the pretrained files.</b>
+<b> Note :</b>do not need to change the path of file except the demo.py file if you want to use the pretrained files.
 
 finally to run the file make sure you have updated system with installed all the dependencies with webcam connected.<br>
 run the below command:
 
     $ ipython3 demo.py
-if all went well you will see the desired responses.
+if all went well you will see the desired responses.<br>
 <b>NOTE:</b> I am using ipython3 version to run the program .if you want you can use others too such as : python,python3 etc.
 
 # Output snapshot
