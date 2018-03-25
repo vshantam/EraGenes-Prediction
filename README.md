@@ -71,13 +71,13 @@ What is facial key points and landmarks?
     ans
  ![alt_tag](https://ars.els-cdn.com/content/image/1-s2.0-S0957417415004170-gr1.jpg)
 # Python Files
-This section is about the differen python files used for building the project.
+This section is about the different python files used for building the project.
         $ipython3 dataset.py
-this python file is used to build a raw dataset form bumch of image dataset.
+this python file is used to build a raw dataset form bunch of image dataset.
 <b><h2>CONFUSED?</h2></b><br>
  Well let me explain you .<br>
  If you take a image you will find out that the each image is set of pixels and each pixels are in the form of <B> [ R, G, B] </B>
- so, it is har to do the analysis.which brings us to the file.<br>
+ so, it is hard to do the analysis.which brings us to the file.<br>
  this python code follows certain steps:
  
     1.face cropping
