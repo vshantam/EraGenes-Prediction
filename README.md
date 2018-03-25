@@ -3,6 +3,9 @@
 EraGenes is basically the combination of two latin words <b>Era</b> means <i>age</i> and <b>Genes</b> means <i>gender</i>.
 <br>
 This project is basically about <b>Extracting</b> the basic key features from Human faces in <b><i>Real time</i></b>.
+Use this link to download this project directly from google drive which consist of 5 minutes of demo vedio in high resolution:
+
+        https://drive.google.com/open?id=16TT7O2Kb20PA_Fw46uqiIIFpt1L7GNtC
 # Project Architecture
 
     1.Introduction
@@ -115,4 +118,27 @@ Machine learning (Regression)<br>
         Y axis : Learning Loss
 ![alt_tag](https://github.com/vshantam/Age-Prediction/blob/master/Gender/gplot1.png)
 
+# How to run
+Before running the program make sure you have provided the corect path of haarcascade and the other classifiers.<br>
+Here are the lis of classifier used in the project :
+
+    1.haarcascade_eye.xml
+    2.haarcascade_frontalface_default.xml
+    # 1 and two used in demo.py file and main.py file
+    3.gclf.pkl 
+    # used in main.py file
+    4.shape_predictor_68_face_landmarks.dat used in main and demo.py file
+    5 pretrained model file used in demo.py file.\
+<b> Note do not need to change the path of file except the demo.py file if you want to use the pretrained files.</b>
+
+finally to run the file make sure you have updated system with installed all the dependencies with webcam connected.<br>
+run the below command:
+
+    $ ipython3 demo.py
+if all went well you will see the desired responses.
+<b>NOTE:</b> I am using ipython3 version to run the program .if you want you can use others too such as : python,python3 etc.
+
+# Output snapshot
+
+If all went well you will see the output like below.
 
