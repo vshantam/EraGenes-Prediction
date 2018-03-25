@@ -143,3 +143,6 @@ if all went well you will see the desired responses.<br>
 
 If all went well you will see the output like below.
 
+![alt_tag](https://github.com/vshantam/EraGenes-Prediction/blob/master/output/output1.png)
+
+![alt_tag](https://github.com/vshantam/EraGenes-Prediction/blob/master/output/output2.png)
