@@ -60,7 +60,7 @@ The working of the above algorithm looks somewhat like this:<br>
 Now the face is been detected its time to move the next strategy.
 
 ## Extract Facial Features 
-To extract the facial features we are using convolution neural network.It is a advanced machine learning algorithm that is used in the feild of computer vision.
+To extract the facial features we are using convolution neural network.It is a advanced machine learning algorithm that is used in the feild of computer vision.<br>
 ![alt_tag](https://image.slidesharecdn.com/paper-presentation3-140114164750-phpapp02/95/neuroevolution-and-deep-learing-4-638.jpg?cb=1389718191)
 
 This features are used to define the age and gender classification.
