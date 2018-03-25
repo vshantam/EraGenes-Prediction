@@ -83,6 +83,7 @@ this python file is used to build a raw dataset form bumch of image dataset.
     1.face cropping
     using below python file:
     $ipython3 cropfunc.py
+ The image is been cropped and resised to (64 x 64) dimension of image.<br>
 ![alt_tag](https://github.com/vshantam/Age-Prediction/blob/master/Analysis/Capture2.PNG)
     
     2.grayscale conversion
@@ -109,7 +110,9 @@ Pie chart<br>
 
 
 Machine learning (Regression)<br>
-
+    
+        X axis : Learning Acuuracy
+        Y axis : Learning Loss
 ![alt_tag](https://github.com/vshantam/Age-Prediction/blob/master/Gender/gplot1.png)
 
 
