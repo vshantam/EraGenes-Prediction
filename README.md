@@ -72,7 +72,6 @@ What is facial key points and landmarks?
  ![alt_tag](https://ars.els-cdn.com/content/image/1-s2.0-S0957417415004170-gr1.jpg)
 # Python Files
 This section is about the differen python files used for building the project.
-## dataset.py
         $ipython3 dataset.py
 this python file is used to build a raw dataset form bumch of image dataset.
 <b><h2>CONFUSED?</h2></b><br>
