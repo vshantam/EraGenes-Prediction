@@ -34,6 +34,7 @@ Use this link to download this project directly from google drive which consist 
       4.opencv(cv2)
       5.keras
       6.math
+      7.h5py
       
 # How to install Dependencies
 Before installing the dependencies i would suggest to update and uprade to your system by the following command:
