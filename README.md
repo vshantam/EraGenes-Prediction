@@ -147,3 +147,12 @@ If all went well you will see the output like below.
 ![alt_tag](https://github.com/vshantam/EraGenes-Prediction/blob/master/output/output1.png)
 
 ![alt_tag](https://github.com/vshantam/EraGenes-Prediction/blob/master/output/output2.png)
+
+As you can see the output is working with slightly variance, this can be happening because of some reasons such as :
+
+        1.Bad Training.
+        2.Bad Feature Selection.
+        3.Noise.
+        
+But as you can see the facial key points are very much accurate.when i kept my mouth closed , fitted properly but when i tried to open it,the facial key points moved accordingly .<br>
+I guess that is the beauty of Machine intelligence .
