@@ -137,7 +137,7 @@ Here are the lis of classifier used in the project :
 finally to run the file make sure you have updated system with installed all the dependencies with webcam connected.<br>
 run the below command:
 
-    $ ipython3 demo.py
+    $ ipython3 newmain.py
 if all went well you will see the desired responses.<br>
 <b>NOTE:</b> I am using ipython3 version to run the program .if you want you can use others too such as : python,python3 etc.
 
